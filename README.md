@@ -2,7 +2,7 @@
 
 > this is a [github template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template), you can use this template to get this as a base in your repo
 
-My current template for a frontend stack.
+My current template for a frontend project.
 
 Stack:
 
