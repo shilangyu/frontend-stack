@@ -2,6 +2,8 @@
 
 > this is a [github template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template), you can use this template to get this as a base in your repo
 
+[![](https://github.com/shilangyu/frontend-stack/workflows/ci/badge.svg)](https://github.com/shilangyu/frontend-stack/actions)
+
 My current template for a frontend project.
 
 Stack:
